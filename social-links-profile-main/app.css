@@ -1,0 +1,22 @@
+.container {
+  border: 1px solid black;
+  margin-top: 180px;
+  max-width: 20%;
+  background-color: #332f2f;
+}
+
+.qoutes {
+  font-size: 15px;
+}
+
+.image {
+  max-width: 30%;
+  border-radius: 50%;
+}
+
+.button {
+  background-color: #524e4e;
+}
+body {
+  background-color: #121111;
+}
